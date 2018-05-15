@@ -1,0 +1,43 @@
+,Strategy,AnnualReturn (20Y),SharpeRatio (20Y)
+0,Adaptive Asset Allocation,13.3%,1.2
+1,Protective Asset Allocation,10.1%,1.05
+2,Allocate Smartly's Meta Strategy,8.9%,1.05
+3,Vigilant Asset Allocation,14.3%,1.04
+4,Protective Asset Allocation - CPR,9.6%,1.01
+5,Varadi's Percentile Channels,7.5%,1.01
+6,Keuning's Generalized Protective Momentum,10.1%,0.99
+7,Flexible Asset Allocation,9.8%,0.95
+8,US Risk Parity Trend Following,6.7%,0.95
+9,Stoken's Active Combined Asset (ACA) - Monthly,10.7%,0.91
+10,Efficiente Index,9.1%,0.91
+11,Stoken's Active Combined Asset (ACA),10.7%,0.91
+12,Classical Asset Allocation - Defensive,7.3%,0.9
+13,Robust Asset Allocation - Balanced,7.5%,0.89
+14,Elastic Asset Allocation - Defensive,10.0%,0.87
+15,Global Risk Parity Trend Following,6.9%,0.86
+16,Faber's Global Tactical Asset Alloc. - Agg. 6,10.1%,0.85
+17,Faber's Trinity Portfolio Lite,8.6%,0.85
+18,Elastic Asset Allocation - Offensive,11.7%,0.84
+19,Antonacci's Composite Dual Momentum,8.6%,0.83
+20,Faber's Global Tactical Asset Alloc. 13 (GTAA 13),7.6%,0.83
+21,Faber's Global Tactical Asset Alloc. 5 (GTAA 5),7.2%,0.82
+22,Varadi's Minimum Correlation Portfolio,9.0%,0.81
+23,Tactical Permanent Portfolio,6.7%,0.79
+24,US Max Diversification,6.2%,0.79
+25,Faber's Global Tactical Asset Alloc. - Agg. 3,11.4%,0.78
+26,Dalio's All-Weather Portfolio,7.3%,0.77
+27,Classical Asset Allocation - Offensive,9.1%,0.76
+28,US Equal Risk Contribution,6.4%,0.74
+29,PortfolioCharts' Golden Butterfly,7.1%,0.73
+30,Antonacci's Global Equities Momentum (GEM),9.7%,0.69
+31,Robust Asset Allocation - Aggressive,7.4%,0.69
+32,Browne's Permanent Portfolio,6.3%,0.69
+33,US Max Sharpe,7.2%,0.69
+34,US Min Correlation,6.1%,0.68
+35,Novell's Tactical Bond Strategy,5.8%,0.65
+36,Philosophical Economics' Growth-Trend Timing,9.4%,0.65
+37,Davis' Three Way Model,8.7%,0.64
+38,Glenn's Paired Switching Strategy,9.8%,0.64
+39,60/40 Benchmark,6.4%,0.53
+40,Faber's Ivy Portfolio,6.9%,0.46
+41,Faber's Sector Relative Strength (Sector RS),7.2%,0.46

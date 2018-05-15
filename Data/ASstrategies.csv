@@ -1,0 +1,43 @@
+Strategy,Stratnames,Symbol,AnnualReturn (20Y),SharpeRatio (20Y)
+Adaptive Asset Allocation,Adaptive Asset Allocation,AAA000,13.3%,1.2
+Protective Asset Allocation,Protective Asset Allocation,PAA000,10.1%,1.05
+Allocate Smartly's Meta Strategy,Allocate  Meta Strategy,AMS000,8.9%,1.05
+Vigilant Asset Allocation,Vigilant Asset Allocation,VAA000,14.3%,1.04
+Protective Asset Allocation - CPR,Protective Asset Allocation - CPR,PAACPR,9.6%,1.01
+Varadi's Percentile Channels, Percentile Channels,PC0000,7.5%,1.01
+Keuning's Generalized Protective Momentum, Generalized Protective Momentum,GPM000,10.1%,0.99
+Flexible Asset Allocation,Flexible Asset Allocation,FAA000,9.8%,0.95
+US Risk Parity Trend Following,US Risk Parity Trend Following,USRPTF,6.7%,0.95
+Stoken's Active Combined Asset (ACA) - Monthly, Active Combined Asset  - Monthly,ACAM00,10.7%,0.91
+Efficiente Index,Efficiente Index,EI0000,9.1%,0.91
+Stoken's Active Combined Asset (ACA), Active Combined Asset ,ACA000,10.7%,0.91
+Classical Asset Allocation - Defensive,Classical Asset Allocation - Defensive,CAAD00,7.3%,0.9
+Robust Asset Allocation - Balanced,Robust Asset Allocation - Balanced,RAAB00,7.5%,0.89
+Elastic Asset Allocation - Defensive,Elastic Asset Allocation - Defensive,EAAD00,10.0%,0.87
+Global Risk Parity Trend Following,Global Risk Parity Trend Following,GRPTF0,6.9%,0.86
+Faber's Global Tactical Asset Alloc. - Agg. 6, Global Tactical Asset Alloc. - Agg. 6,GTAAA6,10.1%,0.85
+Faber's Trinity Portfolio Lite, Trinity Portfolio Lite,TPL000,8.6%,0.85
+Elastic Asset Allocation - Offensive,Elastic Asset Allocation - Offensive,EAAO00,11.7%,0.84
+Antonacci's Composite Dual Momentum, Composite Dual Momentum,CDM000,8.6%,0.83
+Faber's Global Tactical Asset Alloc. 13 (GTAA 13), Global Tactical Asset Alloc. 13 ,GTAA13,7.6%,0.83
+Faber's Global Tactical Asset Alloc. 5 (GTAA 5), Global Tactical Asset Alloc. 5 ,GTAA50,7.2%,0.82
+Varadi's Minimum Correlation Portfolio, Minimum Correlation Portfolio,MCP000,9.0%,0.81
+Tactical Permanent Portfolio,Tactical Permanent Portfolio,TPP000,6.7%,0.79
+US Max Diversification,US Max Diversification,USMD00,6.2%,0.79
+Faber's Global Tactical Asset Alloc. - Agg. 3, Global Tactical Asset Alloc. - Agg. 3,GTAAA3,11.4%,0.78
+Dalio's All-Weather Portfolio, All-Weather Portfolio,AWP000,7.3%,0.77
+Classical Asset Allocation - Offensive,Classical Asset Allocation - Offensive,CAAO00,9.1%,0.76
+US Equal Risk Contribution,US Equal Risk Contribution,USERC0,6.4%,0.74
+PortfolioCharts' Golden Butterfly, Golden Butterfly,GB0000,7.1%,0.73
+Antonacci's Global Equities Momentum (GEM), Global Equities Momentum ,GEM000,9.7%,0.69
+Robust Asset Allocation - Aggressive,Robust Asset Allocation - Aggressive,RAAA00,7.4%,0.69
+Browne's Permanent Portfolio, Permanent Portfolio,PP0000,6.3%,0.69
+US Max Sharpe,US Max Sharpe,USMS00,7.2%,0.69
+US Min Correlation,US Min Correlation,USMC00,6.1%,0.68
+Novell's Tactical Bond Strategy, Tactical Bond Strategy,TBS000,5.8%,0.65
+Philosophical Economics' Growth-Trend Timing,Philosophical  Growth-Trend Timing,PGTT00,9.4%,0.65
+Davis' Three Way Model, Three Way Model,TWM000,8.7%,0.64
+Glenn's Paired Switching Strategy, Paired Switching Strategy,PSS000,9.8%,0.64
+60_40 Benchmark,B6040 Benchmark,BB6040,6.4%,0.53
+Faber's Ivy Portfolio, Ivy Portfolio,IP0000,6.9%,0.46
+Faber's Sector Relative Strength (Sector RS), Sector Relative Strength ,SRS000,7.2%,0.46
